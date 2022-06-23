@@ -13,5 +13,5 @@ int calculateMultiply() {
 }
 
 double calculateDivide() {
-  return divide(25, 4);
+  return divide(25, 0);
 }
